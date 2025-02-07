@@ -4,11 +4,10 @@ A fully functional RESTful API designed to handle scheduling and management of a
 
 ## Features
 
-- Authentication for students and professors
-- Professor availability management
-- Appointment booking and management
-- Role-based access control
-- API documentation with Swagger
+- Secure authentication for both professors and students
+- Manage and update professor availability
+- Schedule, view, and modify appointments
+- Role-specific access control for users
 
 ## Prerequisites
 
