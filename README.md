@@ -11,17 +11,17 @@ A fully functional RESTful API designed to handle scheduling and management of a
 
 ## Prerequisites
 
-- Node.js
-- MongoDB
+- Node.js: Ensure Node.js is installed on your system.
+- MongoDB: A running instance of MongoDB is required.
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository to your local machine
 2. Install dependencies:
    ```bash
    npm install
    ```
-3. Create a .env file with:
+3. Create a .env file and add the following:
    ```
    JWT_SECRET=your_jwt_secret
    MONGODB_URI=your_mongodb_uri
@@ -41,14 +41,14 @@ npm start
 ```
 
 ## Running Tests
-
+Ececute the test suite with:
 ```bash
 npm test
 ```
 
 ## API Documentation
 
-Access the Swagger documentation at `/api-docs` when the server is running.
+Swagger documentation is available at /api-docs when the server is active.
 
 ## API Endpoints
 
