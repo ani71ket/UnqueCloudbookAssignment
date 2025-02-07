@@ -1,6 +1,6 @@
-# College Appointment System
+# Student Appointment System
 
-A RESTful API backend system for managing professor-student appointments at a college.
+A fully functional RESTful API designed to handle scheduling and management of appointments between professors and students in a college environment.
 
 ## Features
 
