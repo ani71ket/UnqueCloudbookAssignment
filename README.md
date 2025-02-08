@@ -21,6 +21,7 @@ A fully functional RESTful API designed to handle scheduling and management of a
    ```bash
    npm install
    ```
+   
 3. Create a .env file and add the following:
    ```
    JWT_SECRET=your_jwt_secret
